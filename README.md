@@ -8,9 +8,9 @@
 
 This guide walks a complete beginner from zero to a first submitted entry. No prior experience with make.fun is assumed.
 
-> **Start here — sign up with my link:** [https://make.fun/r/vtxq0taq](https://make.fun/r/vtxq0taq)
+> **Start here — sign up with my link:** [https://make.fun/r/e2nd4p0b](https://make.fun/r/e2nd4p0b)
 >
-> Referral code: `vtxq0taq`
+> Referral code: `e2nd4p0b`
 
 **The 30-second version:** sign up through the link above, link your GitHub account and Solana wallet, pick a bounty, download its kit, let your coding agent build the entry, then bundle the transcripts and submit. The rest of this guide is the unhurried version of those same steps — read it once, then come back to the step you are on.
 
@@ -59,7 +59,7 @@ Three things are worth knowing before anything else:
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/vtxq0taq](https://make.fun/r/vtxq0taq) and click **Sign in** at the top right. (Referral code `vtxq0taq` — signing up through it costs you nothing.)
+1. Open [https://make.fun/r/e2nd4p0b](https://make.fun/r/e2nd4p0b) and click **Sign in** at the top right. (Referral code `e2nd4p0b` — signing up through it costs you nothing.)
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and fill it in: a username, a picture, a short bio.
 4. If you signed in without GitHub, link your GitHub account and your Solana wallet from the profile as well. Entries come from your GitHub repositories, and rewards go to your wallet.
@@ -172,7 +172,7 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works the same way. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up — make.fun pays that share on top, so the person you referred keeps their own reward whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count — fake or bot signups never do.
 
-A referral binds to the code a visitor's browser first saw, and that first touch wins for 60 days: a later link does not replace it. So if this guide helped you, signing up through [my link](https://make.fun/r/vtxq0taq) (code `vtxq0taq`) is a nice way to say thanks — and the same link in your own guide is how you start earning.
+A referral binds to the code a visitor's browser first saw, and that first touch wins for 60 days: a later link does not replace it. So if this guide helped you, signing up through [my link](https://make.fun/r/e2nd4p0b) (code `e2nd4p0b`) is a nice way to say thanks — and the same link in your own guide is how you start earning.
 
 ## FAQ
 
@@ -222,4 +222,4 @@ Rejection is part of the loop, not the end of it. `status` tells you exactly whi
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=vtxq0taq&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=e2nd4p0b&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
